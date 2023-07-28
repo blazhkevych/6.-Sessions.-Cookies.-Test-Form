@@ -1,0 +1,29 @@
+Name a programming language known for its use in machine learning and data analysis?
+Correct Answer: Python
+
+What is the term used for a data structure that follows the Last-In-First-Out (LIFO) principle?
+Correct Answer: Stack
+
+Which language is used for styling web pages?
+Correct Answer: CSS
+
+What is the process of finding errors and bugs in software applications?
+Correct Answer: Debugging
+
+Name a popular version control system used by developers to manage their code?
+Correct Answer: Git
+
+What is the primary function of the "if" statement in most programming languages?
+Correct Answer: Conditional branching
+
+Name a method used to prevent form submissions from being exploited by malicious entities?
+Correct Answer: CSRF token
+
+What is the term for a web development approach that aims to make web pages render well on a variety of devices and window or screen sizes?
+Correct Answer: Responsive Design
+
+Which HTTP method is typically used for fetching data from a server?
+Correct Answer: GET
+
+Name a programming concept that allows a class to inherit properties and methods from another class?
+Correct Answer: Inheritance

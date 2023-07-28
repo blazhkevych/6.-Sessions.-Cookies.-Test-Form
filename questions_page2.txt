@@ -1,0 +1,69 @@
+Which of the following are primary colors?
+a) Red
+b) Green
+c) Blue
+d) Yellow
+Correct Answers: a, c
+
+Which of the following are continents?
+a) India
+b) Africa
+c) Antarctica
+d) Australia
+Correct Answers: b, c, d
+
+Which programming languages are used for web development?
+a) HTML
+b) Python
+c) Java
+d) JavaScript
+Correct Answers: a, d
+
+Which of the following are fruits?
+a) Carrot
+b) Apple
+c) Potato
+d) Banana
+Correct Answers: b, d
+
+Which of the following are web browsers?
+a) Google Chrome
+b) Photoshop
+c) Mozilla Firefox
+d) Microsoft Word
+Correct Answers: a, c
+
+Which animals lay eggs?
+a) Cat
+b) Dog
+c) Hen
+d) Lion
+Correct Answers: c
+
+Which of the following are programming paradigms?
+a) Object-Oriented Programming (OOP)
+b) Functional Programming (FP)
+c) Assembly Programming
+d) Procedural Programming
+Correct Answers: a, b, d
+
+Which of the following are celestial bodies?
+a) Star
+b) Moon
+c) Cloud
+d) Comet
+Correct Answers: a, b, d
+
+Which of the following are social media platforms?
+a) Facebook
+b) WhatsApp
+c) Instagram
+d) YouTube
+Correct Answers: a, c, d
+
+Which of the following are programming languages?
+a) CSS
+b) Ruby
+c) MySQL
+d) C++
+Correct Answers: a, b, d
